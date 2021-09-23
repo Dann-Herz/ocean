@@ -13,6 +13,7 @@
   "author": "Dann",
   "license": "MIT",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "three": "^0.132.2"
   }
 }
